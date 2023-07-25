@@ -1,6 +1,6 @@
 //Program to Demonstrate to CascadedIfElse
 //Whose age is greater with If-ElseIf.
-package com.met.decisionmaking;
+package com.met.looping;
 
 import java.util.Scanner;
 
